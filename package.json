@@ -1,0 +1,15 @@
+{
+  "name": "mentor-cycle-e2e-ui-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Mentor-Cycle/mentor-cycle-e2e-ui-api.git",
+  "author": "mentor-cycle",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "scripts": {
+    "cy:open": "yarn cypress open",
+    "cy:run": "yarn cypress run"
+  },
+  "devDependencies": {
+    "cypress": "12.12.0"
+  }
+}
